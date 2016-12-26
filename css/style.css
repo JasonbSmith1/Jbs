@@ -463,10 +463,10 @@ team section
 /* ==========================================================================
 portfolio section
 ========================================================================== */
-#portfolio {max-width: 978px 
+#portfolio {max-width: 978px
     .container {
       padding:0;
-      margin:0;
+      margin:350px;
     }
 
     body {
