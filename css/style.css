@@ -468,7 +468,7 @@ portfolio section
   text-align: center;
   }
 #portfolio .container {
-  width: 100%;
+  height: : 333px;
   padding: 0;
   margin: 0;
 }
