@@ -473,7 +473,7 @@ portfolio section
   margin: 0;
 }
 #portfolio img {
-  height: : 500px;
+  height: : 333px;
   transition: all 0.4s ease-in-out;
 }
 #portfolio img:hover {
