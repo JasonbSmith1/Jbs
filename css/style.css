@@ -463,9 +463,22 @@ team section
 /* ==========================================================================
 portfolio section
 ========================================================================== */
-#portfolio {
-    margin: 0px 350px 0px 350px;
-  }
+#portfolio {max-width: 978px 
+    .container {
+      padding:0;
+      margin:0;
+    }
+
+    body {
+      padding:0;
+    }
+
+    .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom:0;
+    }
+}
 
 #portfolio {
   background-color: #fff;
